@@ -11,8 +11,12 @@ body {
   padding: 180px 0 100px 0;
   background-image: url(icons/header.png);
   background-size: cover;
-  color: white;
   text-align: center;
+}
+
+.top-wrapper h3 {
+  color: white;
+  letter-spacing: 5px; 
 }
 
 .main {
