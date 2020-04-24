@@ -14,8 +14,9 @@ body {
   text-align: center;
 }
 
-.top-wrapper h3 {
+.top-wrapper h1 {
   color: white;
+  font-size: 45px;
   letter-spacing: 5px; 
 }
 
