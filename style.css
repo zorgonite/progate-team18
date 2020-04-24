@@ -12,17 +12,17 @@ body {
   background-image: url(icons/header.png);
   background-size: cover;
   text-align: center;
+  color: white;
 }
 
 .top-wrapper h1 {
-  color: white;
   font-size: 45px;
-  letter-spacing: 10px; 
+  letter-spacing: 5px; 
 }
 
 .main {
   position: absolute;
-  top: 395px;left: 100px;
+  top: 570px;left: 100px;
   width: 1000px;
   padding: 20px 80px;
 }
@@ -52,6 +52,7 @@ body {
 }
 
 .bio {
+  margin-top: 100px;
   margin-bottom: 30px;
 }
 
