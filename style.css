@@ -11,6 +11,14 @@ body {
   background-color: rgb(239, 255, 255);
 }
 
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(icons/header.png);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
 .section-title {
   border-bottom: 4px solid #dee7ec;
   font-size: 28px;
