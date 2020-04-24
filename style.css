@@ -1,14 +1,7 @@
 
 
 body {
-  font-family: "Helvetica";
-}
-
-.main {
-  width: 1000px;
-  position: relative; left: 100px;
-  padding: 100px 80px;
-  background-color: rgb(239, 255, 255);
+  font-family: "arial";
 }
 
 .top-wrapper {
@@ -20,6 +13,13 @@ body {
   background-size: cover;
   color: white;
   text-align: center;
+}
+
+.main {
+  position: absolute;
+  top: 395px;left: 100px;
+  width: 1000px;
+  padding: 20px 80px;
 }
 
 .section-title {
@@ -35,7 +35,10 @@ body {
   color: white;
 }
 
-.biodata {
+.biodata h3 {
+  text-align: center;
+  font-size: 20px;
+  color: gray;
 }
 
 .bio table {
